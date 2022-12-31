@@ -5,6 +5,12 @@ A PyPI package for fast word/character error rate (WER/CER) calculation
 * fast (cpp implementation)
 * sentence-level and corpus-level WER/CER scores
 
+It was also extended with new functionalities [ahector@prhlt.upv.es]:
+* Computation of Bag of words
+* Support for UTF.8 encoding
+* Traceback algorithm implmenetation for obtaining the aligning-path
+through a minimum edit-distance between reference and hypothesis strings
+
 
 # Installation
 ```bash
