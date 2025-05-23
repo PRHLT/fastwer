@@ -1,6 +1,7 @@
 #ifndef FASTWER_FASTWER_HPP
 #define FASTWER_FASTWER_HPP
 
+#include <stdint.h>       // AHT
 #include <vector>
 #include <unordered_map>  // AHT
 #include <list>           // AHT
